@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <div width="100%" align="center">
   <h1>
     <b>Mikey Pro</b>
