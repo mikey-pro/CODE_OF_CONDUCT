@@ -1,5 +1,5 @@
 <a href="https://mikey-pro.com">
-  <img src="mikey-pro-logo.png" style="width: 275px" alt="Mikey Pro Logo" />
+  <img src="mikey-pro-logo-iso.png" style="width: 275px" alt="Mikey Pro Logo" />
 </a>
 
 # Contributor Covenant Code of Conduct
