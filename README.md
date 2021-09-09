@@ -1,17 +1,6 @@
-<div width="100%" align="center">
-  <h1>
-    <b>Mikey Pro</b>
-  </h1>
-  <h3>
-    <a href="https://github.com/mikey-pro/style-guide">Style Guide</a>
-    +
-    <a href="https://github.com/mikey-pro/theme">Theme</a>
-  </h3>
-  <a href="https://github.com/mikey-pro">
-    <img src="mikey-pro-logo.png" style="width: 275px" alt="Mikey Pro Logo" />
-  </a>
-  <br />
-</div>
+<a href="https://mikey-pro.com">
+  <img src="mikey-pro-logo.png" style="width: 275px" alt="Mikey Pro Logo" />
+</a>
 
 # Contributor Covenant Code of Conduct
 
