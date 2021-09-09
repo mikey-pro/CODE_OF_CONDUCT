@@ -1,8 +1,8 @@
 <div width="100%" align="center">
 
-# **Mikey Pro**
+<h1><b>Mikey Pro</b></h1>
 
-### [Style Guide](https://github.com/mikey-pro/style-guide) + [Theme](https://github.com/mikey-pro/theme)
+<a href="https://github.com/mikey-pro/style-guide"><h3>Style Guide</h3></a> + <a href="https://github.com/mikey-pro/theme"><h3>Theme</h3></a>
 
   <a href="https://github.com/mikey-pro">
     <img src="mikey-pro-logo.png" style="width: 275px" alt="Mikey Pro Logo" />
