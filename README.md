@@ -3,7 +3,7 @@
   <img src="mikey-pro-logo-iso.png" style="width: 100px" alt="Mikey Pro Logo" />
 </a>
 
-# Contributor Covenant Code of Conduct
+# [Contributor Covenant Code of Conduct](https://mikey-pro.github.io/CODE_OF_CONDUCT/)
 
 ## Our Pledge
 
