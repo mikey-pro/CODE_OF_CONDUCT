@@ -8,6 +8,8 @@
   <br />
 </div>
 
+<br />
+
 # [Contributor Covenant Code of Conduct](https://mikey-pro.github.io/CODE_OF_CONDUCT/)
 
 ## Our Pledge
