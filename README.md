@@ -1,3 +1,4 @@
+<br />
 <div width="100%" align="center">
   <h1>
     <b>Mikey Pro</b>
@@ -7,7 +8,6 @@
   </a>
   <br />
 </div>
-
 <br />
 
 # [Contributor Covenant Code of Conduct](https://mikey-pro.github.io/CODE_OF_CONDUCT/)
