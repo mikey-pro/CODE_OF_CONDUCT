@@ -1,8 +1,8 @@
 <div width="100%" align="center">
-<br />
-<a href="https://mikey-pro.com">
-  <img src="img/mikey-pro-logo.svg" style="height: 75px" alt="Mikey Pro Logo" />
-</a>
+  <br />
+  <a href="https://mikey-pro.com">
+    <img src="img/mikey-pro-logo.svg" style="height: 75px" alt="Mikey Pro Logo" />
+  </a>
 </div>
 
 # [Contributor Covenant Code of Conduct](https://mikey-pro.github.io/CODE_OF_CONDUCT/)
